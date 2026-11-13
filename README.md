@@ -2,7 +2,12 @@
 
 ![screenshot](screenshot.png)
 
-## Play (Windows)
+## ▶ Play in the browser (iPhone / Android / PC)
+**https://nikodhmos.github.io/loves-me/**
+
+On iPhone: open it in Safari → Share → *Add to Home Screen* to get it like an app.
+
+## Play (Windows app)
 1. Go to **[Releases](../../releases/latest)** and download **LovesMe.exe**
 2. Double-click it (if Windows warns you: *More info → Run anyway*)
 

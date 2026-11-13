@@ -710,7 +710,7 @@ class Game:
     def draw_card(self, b, lines):
         t = self.end_t - 70
         h = len(lines) * 16 + 10
-        top = 70 - h // 2 + max(0, 12 - t)          # slides up a bit as it appears
+        top = 76 - h // 2 + max(0, 12 - t)          # slides up a bit as it appears
         x0, x1 = 12, W - 12
         border = YES_COL if self.loves else NO_COL
         b.fill(INK, (x0, top, x1 - x0, h))
